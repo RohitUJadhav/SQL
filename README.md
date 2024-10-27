@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/RohitUJadhav/SQL/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/RohitUJadhav/SQL/tree/master/1155-product-sales-analysis-iii) |
 | [1415-students-and-examinations](https://github.com/RohitUJadhav/SQL/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/RohitUJadhav/SQL/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RohitUJadhav/SQL/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/RohitUJadhav/SQL/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
